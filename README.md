@@ -103,5 +103,5 @@ _Add screenshots of dashboards, alerts, and threat hunting queries._
 ## 🔗 Connect with me
 Feel free to check out more of my projects or connect for collaboration!
 
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
+- GitHub: iammufasa
+- LinkedIn: www.linkedin.com/in/richardakpan
