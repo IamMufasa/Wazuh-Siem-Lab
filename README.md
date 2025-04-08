@@ -85,7 +85,19 @@ The goal was to simulate an enterprise environment, integrate threat intelligenc
 ---
 
 ## 📸 Gallery (Coming Soon)
-_Add screenshots of dashboards, alerts, and threat hunting queries._
+
+| Wazuh Dashboard Overview | Custom Dashboard - SSH Brute Force Attack |
+|:------------------------:|:----------------------------------------:|
+| ![Wazuh Dashboard](assets/wazuh-dashboard.png) | ![Custom Dashboard](assets/custom-ssh-dashboard.png) |
+
+| Sysmon Log Analysis | Incident Response - User Disablement |
+|:------------------:|:----------------------------------:|
+| ![Sysmon Log](assets/sysmon-log-analysis.png) | ![Incident Response](assets/incident-response-user-disable.png) |
+
+| Suricata IDS Alerts | Threat Hunting with YARA Rules |
+|:------------------:|:----------------------------:|
+| ![Suricata Alerts](assets/suricata-alerts.png) | ![YARA Threat Hunting](assets/yara-threat-hunting.png) |
+
 
 ---
 
